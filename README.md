@@ -76,3 +76,11 @@ your library. I might consider adding a `--destructive` flag to move photos inst
 This program has already served its purpose, and I don't have any more iPhoto libraries to test it
 on, so I'm not likely to make further improvements for myself. If you use this program and run into
 problems, please open an issue and I will try to help.
+
+## Acknowledgements
+
+The command-parsing structure was shamelessly stolen from
+[these](https://samyn.co/post/creating-neat-net-core-console-apps/)
+[two](https://samyn.co/post/structuring-neat-net-core-console-apps/)
+very helpful articles by
+[Marcel Samyn](https://github.com/iamarcel).
